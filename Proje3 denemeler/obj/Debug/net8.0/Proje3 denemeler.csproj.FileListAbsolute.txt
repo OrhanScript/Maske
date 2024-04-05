@@ -1,0 +1,14 @@
+C:\Users\ezalo\source\repos\Maske\Proje3 denemeler\bin\Debug\net8.0\Proje3 denemeler.exe
+C:\Users\ezalo\source\repos\Maske\Proje3 denemeler\bin\Debug\net8.0\Proje3 denemeler.deps.json
+C:\Users\ezalo\source\repos\Maske\Proje3 denemeler\bin\Debug\net8.0\Proje3 denemeler.runtimeconfig.json
+C:\Users\ezalo\source\repos\Maske\Proje3 denemeler\bin\Debug\net8.0\Proje3 denemeler.dll
+C:\Users\ezalo\source\repos\Maske\Proje3 denemeler\bin\Debug\net8.0\Proje3 denemeler.pdb
+C:\Users\ezalo\source\repos\Maske\Proje3 denemeler\obj\Debug\net8.0\Proje3 denemeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezalo\source\repos\Maske\Proje3 denemeler\obj\Debug\net8.0\Proje3 denemeler.AssemblyInfoInputs.cache
+C:\Users\ezalo\source\repos\Maske\Proje3 denemeler\obj\Debug\net8.0\Proje3 denemeler.AssemblyInfo.cs
+C:\Users\ezalo\source\repos\Maske\Proje3 denemeler\obj\Debug\net8.0\Proje3 denemeler.csproj.CoreCompileInputs.cache
+C:\Users\ezalo\source\repos\Maske\Proje3 denemeler\obj\Debug\net8.0\Proje3 denemeler.dll
+C:\Users\ezalo\source\repos\Maske\Proje3 denemeler\obj\Debug\net8.0\refint\Proje3 denemeler.dll
+C:\Users\ezalo\source\repos\Maske\Proje3 denemeler\obj\Debug\net8.0\Proje3 denemeler.pdb
+C:\Users\ezalo\source\repos\Maske\Proje3 denemeler\obj\Debug\net8.0\Proje3 denemeler.genruntimeconfig.cache
+C:\Users\ezalo\source\repos\Maske\Proje3 denemeler\obj\Debug\net8.0\ref\Proje3 denemeler.dll
